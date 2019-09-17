@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'niquutes'' => 'niquutes#index'
+  get 'niquutes' => 'niquutes#index'
 end
